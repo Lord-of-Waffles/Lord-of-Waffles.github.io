@@ -1,0 +1,18 @@
+
+p {
+
+    font-family: cursive;
+    font-size: medium;
+
+}
+
+body{
+    background-color: antiquewhite;
+}
+img {
+    border: thin;
+    border-radius: 12px;
+    width: 200px;
+    height: 200px;
+    margin-left: 40%;
+}
